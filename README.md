@@ -1,6 +1,6 @@
 # tugas_tabel_meja
 
-A new Flutter project.
+Tugas tabel meja — A Flutter project.
 
 ## Getting Started
 
